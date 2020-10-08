@@ -12,10 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="#technologies">Used Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#objective">The project's objective</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#final-result">Final Result</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#how-to-use">How to Run</a>
+  <a href="#technologies">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#objective">Objetivo do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#final-result">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -26,7 +25,7 @@
 </p>
 
 <h2 id="techonologies" name="technologies">
-  :rocket: Used Technologies
+  :rocket: Tecnologias utilizadas
 </h2>
 
 - [Vue.js](https://br.vuejs.org)
